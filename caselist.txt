@@ -1,0 +1,7 @@
+test_dir/account
+test_dir/billing
+test_dir/dgtpayment
+test_dir/donation
+test_dir/ec
+test_dir/paypage
+test_dir/recbilling
